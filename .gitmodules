@@ -1,0 +1,6 @@
+[submodule "mcq-backend"]
+	path = mcq-backend
+	url = https://github.com/yusufugurozbek/multiple-choice-questions-backend
+[submodule "mcq-mobile-app"]
+	path = mcq-mobile-app
+	url = https://github.com/yusufugurozbek/multiple-choice-questions-mobile-app
